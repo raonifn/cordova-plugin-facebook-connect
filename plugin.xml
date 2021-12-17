@@ -178,9 +178,9 @@
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods use-frameworks="true">
-                <pod name="FBSDKCoreKit" spec="$FACEBOOK_IOS_SDK_VERSION"/>
-                <pod name="FBSDKLoginKit" spec="$FACEBOOK_IOS_SDK_VERSION"/>
-                <pod name="FBSDKShareKit" spec="$FACEBOOK_IOS_SDK_VERSION"/>
+                <pod name="FBSDKCoreKit" spec="5.11.0"/>
+                <pod name="FBSDKLoginKit" spec="5.11.0"/>
+                <pod name="FBSDKShareKit" spec="5.11.0"/>
             </pods>
         </podspec>
 

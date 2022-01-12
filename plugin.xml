@@ -178,9 +178,9 @@
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods use-frameworks="true">
-                <pod name="FBSDKCoreKit" spec="5.11.0"/>
-                <pod name="FBSDKLoginKit" spec="5.11.0"/>
-                <pod name="FBSDKShareKit" spec="5.11.0"/>
+                <pod name="FBSDKCoreKit" spec="9.0.1"/>
+                <pod name="FBSDKLoginKit" spec="9.0.1"/>
+                <pod name="FBSDKShareKit" spec="9.0.1"/>
             </pods>
         </podspec>
 
